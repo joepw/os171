@@ -1,2 +1,2 @@
 this week I learned about adding, editing, moving and deleting files in my git repository
-I also leatned to do push and pull in git
+I also learned to do push and pull in git
