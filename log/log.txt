@@ -1,2 +1,12 @@
-w01-170214-13-LS-Watching demo from lecturer
-w01-170215-22-PS-About: github lab tutorial for week01 
+w01-170214-13-LS-About: scripting-Watching demo from lecturer
+w01-170214-13-LS-About: scripting-Watching demo from lecturer
+w01-170214-14-LS-About: scripting-Watching demo from lecturer
+w01-170214-14-LS-About: scripting-Watching demo from lecturer
+w01-170215-22-PS-About: CLI,Git and scripting - github lab tutorial for week01
+w01-170215-22-PS-About: CLI,Git and scripting - github lab tutorial for week01
+w01-170216-13-LS-About: regex-Watching demo from lecturer
+w01-170216-13-LS-About: regex-Watching demo from lecturer
+w01-170216-14-LS-About: regex-Watching demo from lecturer
+w01-170216-14-LS-About: regex-Watching demo from lecturer
+w02-170220-18-PS-About: Privacy Matters, Encryption and Digital Signature - github lab tutorial for week02
+w02-170220-18-PS-About: Privacy Matters, Encryption and Digital Signature - github lab tutorial for week02
