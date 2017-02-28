@@ -10,3 +10,11 @@ w01-170216-14-LS-About: regex-Watching demo from lecturer
 w01-170216-14-LS-About: regex-Watching demo from lecturer
 w02-170220-18-PS-About: Privacy Matters, Encryption and Digital Signature - github lab tutorial for week02
 w02-170220-18-PS-About: Privacy Matters, Encryption and Digital Signature - github lab tutorial for week02
+w02-210217-13-LR-About: Security
+w02-210217-13-LR-About: Security
+w02-210217-14-LR-About: Security
+w02-210217-14-LR-About: Security
+w02-230217-13-LR-About: Intro to C
+w02-230217-13-LR-About: Intro to C
+w02-230217-14-LR-About: Intro to C
+w02-230217-14-LR-About: Intro to C
