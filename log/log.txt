@@ -22,8 +22,8 @@ w03-280217-13-LR-About: BIOS, boot process and Upstart
 w03-280217-13-LR-About: BIOS, boot process and Upstart
 w03-280217-14-LR-About: BIOS, boot process and Upstart
 w03-280217-14-LR-About: BIOS, boot process and Upstart
-w03-280217-13-LR-About: BIOS, boot process and Upstart & intro to Pointer
-w03-280217-13-LR-About: BIOS, boot process and Upstart & intro to Pointer
+w03-020317-13-LR-About: BIOS, boot process and Upstart & intro to Pointer
+w03-020317-13-LR-About: BIOS, boot process and Upstart & intro to Pointer
 w03-020317-14-LR-About: BIOS, boot process and Upstart & intro to Pointer
 w03-020317-14-LR-About: BIOS, boot process and Upstart & intro to Pointer
 w03-020317-22-PS-About: boot and startup - github lab tutorial for week03
