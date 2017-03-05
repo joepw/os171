@@ -10,22 +10,22 @@ w01-170216-14-LS-About: regex-Watching demo from lecturer
 w01-170216-14-LS-About: regex-Watching demo from lecturer
 w02-170220-18-PS-About: Privacy Matters, Encryption and Digital Signature - github lab tutorial for week02
 w02-170220-18-PS-About: Privacy Matters, Encryption and Digital Signature - github lab tutorial for week02
-w02-210217-13-LR-About: Security
-w02-210217-13-LR-About: Security
-w02-210217-14-LR-About: Security
-w02-210217-14-LR-About: Security
-w02-230217-13-LR-About: Intro to C
-w02-230217-13-LR-About: Intro to C
-w02-230217-14-LR-About: Intro to C
-w02-230217-14-LR-About: Intro to C
-w03-280217-13-LR-About: BIOS, boot process and Upstart
-w03-280217-13-LR-About: BIOS, boot process and Upstart
-w03-280217-14-LR-About: BIOS, boot process and Upstart
-w03-280217-14-LR-About: BIOS, boot process and Upstart
-w03-020317-13-LR-About: BIOS, boot process and Upstart & intro to Pointer
-w03-020317-13-LR-About: BIOS, boot process and Upstart & intro to Pointer
-w03-020317-14-LR-About: BIOS, boot process and Upstart & intro to Pointer
-w03-020317-14-LR-About: BIOS, boot process and Upstart & intro to Pointer
-w03-020317-22-PS-About: boot and startup - github lab tutorial for week03
-w03-020317-22-PS-About: boot and startup - github lab tutorial for week03
-w03-020317-23-PS-About: boot and startup - github lab tutorial for week03
+w02-170221-13-LR-About: Security
+w02-170221-13-LR-About: Security
+w02-170221-14-LR-About: Security
+w02-170221-14-LR-About: Security
+w02-170223-13-LR-About: Intro to C
+w02-170223-13-LR-About: Intro to C
+w02-170223-14-LR-About: Intro to C
+w02-170223-14-LR-About: Intro to C
+w03-170228-13-LR-About: BIOS, boot process and Upstart
+w03-170217-13-LR-About: BIOS, boot process and Upstart
+w03-170228-14-LR-About: BIOS, boot process and Upstart
+w03-170228-14-LR-About: BIOS, boot process and Upstart
+w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to Pointer
+w03-170302-13-LR-About: BIOS, boot process and Upstart & intro to Pointer
+w03-170302-14-LR-About: BIOS, boot process and Upstart & intro to Pointer
+w03-170302-14-LR-About: BIOS, boot process and Upstart & intro to Pointer
+w03-170302-22-PS-About: boot and startup - github lab tutorial for week03
+w03-170302-22-PS-About: boot and startup - github lab tutorial for week03
+w03-170302-23-PS-About: boot and startup - github lab tutorial for week03
