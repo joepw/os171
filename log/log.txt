@@ -29,3 +29,23 @@ w03-170302-14-LR-About: BIOS, boot process and Upstart & intro to Pointer
 w03-170302-22-PS-About: boot and startup - github lab tutorial for week03
 w03-170302-22-PS-About: boot and startup - github lab tutorial for week03
 w03-170302-23-PS-About: boot and startup - github lab tutorial for week03
+w04-170307-13-LR-About: addressing & pointer
+w04-170307-13-LR-About: addressing & pointer
+w04-170307-14-LR-About: addressing & pointer
+w04-170307-14-LR-About: addressing & pointer
+w04-170308-19-PS-About: Pointer & I/O - github lab tutorial for week04
+w04-170308-19-PS-About: Pointer & I/O - github lab tutorial for week04
+w04-170309-13-LR-About: I/O Programming
+w04-170309-13-LR-About: I/O Programming
+w04-170309-14-LR-About: I/O Programming
+w04-170309-14-LR-About: I/O Programming
+w05-170314-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170314-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170314-14-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170314-14-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170315-17-PS-About: Memory - github lab tutorial for week05
+w05-170315-17-PS-About: Memory - github lab tutorial for week05
+w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170316-14-LR-About: Binding & linking, memory allocation & fragmentation
+w05-170316-14-LR-About: Binding & linking, memory allocation & fragmentation
