@@ -1,0 +1,19 @@
+total 88
+drwxr-xr-x 2 jonathan.prasetya StafCS 4096 Feb 25 09:32 .
+drwxr-xr-x 3 jonathan.prasetya StafCS 4096 Feb 20 19:17 ..
+-rw-r--r-- 1 jonathan.prasetya StafCS 1621 Feb 20 17:44 00-toc.txt
+-rw-r--r-- 1 jonathan.prasetya StafCS 3158 Feb 20 17:45 01-public-osteam.txt
+-rw-r--r-- 1 jonathan.prasetya StafCS    0 Feb 25 09:32 02-ls-al.txt
+-rw-r--r-- 1 jonathan.prasetya StafCS  331 Feb 20 17:49 03-list-keys1.txt
+-rw-r--r-- 1 jonathan.prasetya StafCS  497 Feb 20 17:50 04-list-keys2.txt
+-rwxr-xr-x 1 jonathan.prasetya StafCS 6760 Feb 20 18:19 exercise
+-rw-r--r-- 1 jonathan.prasetya StafCS  274 Feb 20 18:19 exercise.c
+-rwxr-xr-x 1 jonathan.prasetya StafCS 6696 Feb 20 17:57 hello
+-rw-r--r-- 1 jonathan.prasetya StafCS   74 Feb 20 17:56 hello.c
+-rwxr-xr-x 1 jonathan.prasetya StafCS 6928 Feb 20 18:03 loop
+-rw-r--r-- 1 jonathan.prasetya StafCS  429 Feb 20 18:02 loop.c
+-rw-r--r-- 1 jonathan.prasetya StafCS 6167 Feb 20 17:51 mypublickey1.txt
+-rw-r--r-- 1 jonathan.prasetya StafCS  693 Feb 20 19:11 SHA1SUM
+-rw-r--r-- 1 jonathan.prasetya StafCS  819 Feb 20 19:14 SHA1SUM.asc
+-rwxr-xr-x 1 jonathan.prasetya StafCS 7120 Feb 20 17:59 status
+-rw-r--r-- 1 jonathan.prasetya StafCS  143 Feb 20 17:59 status.c

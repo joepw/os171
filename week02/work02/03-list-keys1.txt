@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/j/jonathan.prasetya/.gnupg/pubring.gpg
+---------------------------------------------------------------
+pub   4096R/7EED4C74 2017-02-20 [expires: 2017-08-19]
+uid                  Jonathan Prasetya Wijaya (semoga OS lancar) <jonathan.prasetya@ui.ac.id>
+sub   4096R/B33EFE8E 2017-02-20 [expires: 2017-08-19]
+
