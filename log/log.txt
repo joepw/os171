@@ -49,3 +49,11 @@ w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
 w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
 w05-170316-14-LR-About: Binding & linking, memory allocation & fragmentation
 w05-170316-14-LR-About: Binding & linking, memory allocation & fragmentation
+w06-170321-13-LR-About: Physical memory & Midterm review
+w06-170321-13-LR-About: Physical memory & Midterm review
+w06-170321-16-LR-About: Assistance in class from teaching assistant
+w06-170321-16-LR-About: Assistance in class from teaching assistant
+w06-170321-17-LR-About: Assistance in class from teaching assistant
+w06-170321-17-LR-About: Assistance in class from teaching assistant
+w06-170323-13-LR-About: Midterm review
+w06-170323-13-LR-About: Midterm review
