@@ -49,11 +49,18 @@ w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
 w05-170316-13-LR-About: Binding & linking, memory allocation & fragmentation
 w05-170316-14-LR-About: Binding & linking, memory allocation & fragmentation
 w05-170316-14-LR-About: Binding & linking, memory allocation & fragmentation
-w06-170321-13-LR-About: Physical memory & Midterm review
-w06-170321-13-LR-About: Physical memory & Midterm review
-w06-170321-16-LR-About: Assistance in class from teaching assistant
-w06-170321-16-LR-About: Assistance in class from teaching assistant
-w06-170321-17-LR-About: Assistance in class from teaching assistant
-w06-170321-17-LR-About: Assistance in class from teaching assistant
-w06-170323-13-LR-About: Midterm review
-w06-170323-13-LR-About: Midterm review
+w05a-170321-13-LR-About: Physical memory & Midterm review
+w05a-170321-13-LR-About: Physical memory & Midterm review
+w05a-170321-16-LR-About: Assistance in class from teaching assistant
+w05a-170321-16-LR-About: Assistance in class from teaching assistant
+w05a-170321-17-LR-About: Assistance in class from teaching assistant
+w05a-170321-17-LR-About: Assistance in class from teaching assistant
+w05a-170323-13-LR-About: Midterm review
+w05a-170323-13-LR-About: Midterm review
+w06-170406-13-LR-About: Thread and fork
+w06-170406-13-LR-About: Thread and fork
+w06-170406-14-LR-About: Thread and fork
+w06-170406-14-LR-About: Thread and fork
+w06-170413-08-PS-About: Fork - github lab tutorial for week06
+w06-170413-09-PS-About: Fork - github lab tutorial for week06
+w06-170413-09-PS-About: Fork - github lab tutorial for week06
