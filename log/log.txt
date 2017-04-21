@@ -64,3 +64,15 @@ w06-170406-14-LR-About: Thread and fork
 w06-170413-08-PS-About: Fork - github lab tutorial for week06
 w06-170413-09-PS-About: Fork - github lab tutorial for week06
 w06-170413-09-PS-About: Fork - github lab tutorial for week06
+w07-170418-13-LR-About: Synchronization
+w07-170418-13-LR-About: Synchronization
+w07-170418-14-LR-About: Synchronization
+w07-170418-14-LR-About: Synchronization
+w07-170422-03-PS-About: Synchronization - github lab tutorial for week07
+w07-170422-03-PS-About: Synchronization - github lab tutorial for week07
+w07-170422-04-PS-About: Synchronization - github lab tutorial for week07
+w07-170422-04-PS-About: Synchronization - github lab tutorial for week07
+w08-170420-13-LR-About: Scheduling
+w08-170420-13-LR-About: Scheduling
+w08-170420-14-LR-About: Scheduling
+w08-170420-14-LR-About: Scheduling
